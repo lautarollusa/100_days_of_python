@@ -8,7 +8,7 @@ My progress following Angela Yu's **100 Days of Code: Python** course.
 - [x] Day 03
 - [x] Day 04
 - [x] Day 05
-- [] Day 06
+- [x] Day 06
 - [] Day 07
 - [] Day 08
 - [] Day 09
